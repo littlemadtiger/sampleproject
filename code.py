@@ -24,15 +24,16 @@ my_info("Jacob Sangiuliano", 21, "Aurora, Colorado")
 myInformation = name_decorator(my_info)
 print(myInformation)
 
-#Function for converting 
+#Function for converting temperatures from Fahrenheit to Celsius
 def city_variables_f(denver_temp_f, san_diego_temp_f, miami_temp_f):
   #Converting from Fahrenheit to Celsius.
   c_temp_denver = (denver_temp_f - 32) * 5 / 9
   c_temp_san_diego = (san_diego_temp_f - 32) * 5 / 9
   c_temp_miami = (miami_temp_f - 32) * 5 / 9
-  #What to show when calling func
+  #Display Fahrenheit temperatures
   print("These are the 3 cities temperature readings in Fahrenheit for July 4th, 2022:\n")
   print("Denver (f):\n" + str(denver_temp_f) + '\n' + "San Diego (f):\n" + str(san_diego_temp_f) + '\n' + "Miami (f):\n" + str(miami_temp_f) + '\n')
+  #Display temperatures converted into Celsius
   print("The temperature readings in Celsius after conversion:\n")
   print("Denver (C):\n" + str(c_temp_denver) + '\n' + "San Diego (C):\n" + str(c_temp_san_diego) + '\n' + "Miami (C):\n" + str(c_temp_miami) + '\n')
 
