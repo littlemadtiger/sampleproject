@@ -5,6 +5,8 @@
 #Throughout the code, I will be illustrating how each sequence of code will correspond to the overall function of the program itself.
 #Enjoy!
 
+
+
 #Assigning a decorator/Illustrating what will wrap around our other function. 
 def name_decorator(my_info):
   def wrapper(*args, **kwargs):  
@@ -26,7 +28,7 @@ print(myInformation)
 
 #Function for converting temperatures from Fahrenheit to Celsius
 def city_variables_f(denver_temp_f, san_diego_temp_f, miami_temp_f):
-  #Converting from Fahrenheit to Celsius.
+  # Use equation: C = (F - 32)
   c_temp_denver = (denver_temp_f - 32) * 5 / 9
   c_temp_san_diego = (san_diego_temp_f - 32) * 5 / 9
   c_temp_miami = (miami_temp_f - 32) * 5 / 9
