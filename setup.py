@@ -40,3 +40,4 @@ def city_variables_f(denver_temp_f, san_diego_temp_f, miami_temp_f):
 #Returning set values
 city_variables_f(74, 63, 84)
     
+#TO BE CONTINUED
