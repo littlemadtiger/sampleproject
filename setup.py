@@ -54,6 +54,6 @@ total_data_f[0][-1] = 92
 total_data_f[1][-1] = 72
 total_data_f[-1][-1] = 86
 
-#Display Results/Call function again for July 5th!
+#Display Results
 print(list(total_data_f))
-city_variables_f(92, 72, 86)
+
