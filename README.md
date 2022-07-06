@@ -7,9 +7,12 @@
 
 
 
-*My Personal links*
+*My Personal links:*
 
 [GFL Profile](https://gflclan.com/profile/6389-littlemadtiger/)
 
-[Steam Profile](https://steamcommunity.com/id/SchrodingersGerbel)
+[Steam](https://steamcommunity.com/id/SchrodingersGerbel)
 
+[LinkedIn](https://www.linkedin.com/in/jacob-sangiuliano-8501a3103/)
+
+[Facebook](https://www.facebook.com/jacob.sangiuliano.77/)
